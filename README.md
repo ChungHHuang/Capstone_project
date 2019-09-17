@@ -2,8 +2,8 @@
 This is the repository of NYCDSA capstone project about hospital readmission rate. 
 
 A goal of Affordable Health Care act is to imporve the quality of hospital care.
-Decreasing hopital readmission rates
-Hospitals with poor readmission performace are financially penaliezed
+Decreasing hopital readmission rates.
+Hospitals with poor readmission performace are financially penaliezed.
 
 Definitions of hospital readmission from CMS.
 All-cause unplanned readmissions that happen within 30 days of discharge from the initial admission.
